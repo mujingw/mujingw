@@ -1,17 +1,7 @@
 ### Hi there 👋
 
 ---
-
-### &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/mujingw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mujingw&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujingw&theme=algolia&layout=compact&langs_count=8"/>
-</a>
-
----
-
-### 🛠  Tech Stack
+### 🛠 Tech Stack
 
 * **Languages**
 
@@ -20,10 +10,8 @@
   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=A8B9CC)
   ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=CSharp&logoColor=239120)
-  ![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=LaTeX&logoColor=008080)
   ![Perl](https://img.shields.io/badge/-Perl-000000?style=flat&logo=Perl&logoColor=39457E)
   ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby&logoColor=CC342D)
-
 
 * **Frameworks**
 
@@ -50,6 +38,9 @@
   ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=JiraSoftware&logoColor=0052CC)
   ![Confluence](https://img.shields.io/badge/-Confluence-000000?style=flat&logo=Confluence&logoColor=172B4D)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=Postman&logoColor=FF6C37)
+  
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=LaTeX&logoColor=008080)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white)
 
 * **Databases**
 
@@ -63,3 +54,9 @@
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
   ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=0078D6)
 
+### &#x1f4c8;  My GitHub Stats
+<p align="left">
+  <a href="https://github.com/mujingw">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mujingw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujingw&theme=algolia&layout=compact&langs_count=8"/>
+  </a>
+</p>
