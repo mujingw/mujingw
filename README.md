@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-### 🛠 Tech Stack
+### :gear: Tech Stack
 
 * **Languages**
 
