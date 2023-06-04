@@ -18,13 +18,13 @@
 * **Frameworks**
 
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-FFFFFF?style=flat&logo=SpringBoot&logoColor=6DB33F)
+  ![Java Collections](https://img.shields.io/badge/-Java%20Collections-FFFFFF?style=flat&logo=openjdk&logoColor=000000)
   ![.NET](https://img.shields.io/badge/-.NET-FFFFFF?style=flat&logo=DotNet&logoColor=512BD4)
   
 * **Messaging**
 
-  ![REST](https://img.shields.io/badge/-REST-000000?style=flat&logo=rest&logoColor=FFFFFF)
-  ![gRPC](https://img.shields.io/badge/-gRPC-000000?style=flat&logo=grpc&logoColor=FFFFFF)
-  ![ServerSocket](https://img.shields.io/badge/-ServerSocket-000000?style=flat&logo=serversocket&logoColor=FFFFFF)
+  ![gRPC](https://img.shields.io/badge/-gRPC-FFFFFF?style=flat&logo=google&logoColor=4285F4)
+  ![ServerSocket](https://img.shields.io/badge/-ServerSocket-FFFFFF?style=flat&logo=openjdk&logoColor=000000)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FFFFFF?style=flat&logo=rabbitmq&logoColor=FF6600)
   ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-FFFFFF?style=flat&logo=apachekafka&logoColor=231F20)
   ![Socket.IO](https://img.shields.io/badge/-Socket.IO-FFFFFF?style=flat&logo=socketdotio&logoColor=010101)
@@ -53,8 +53,7 @@
 * **Testing**
   
   ![JUnit](https://img.shields.io/badge/-JUnit-FFFFFF?style=flat&logo=JUnit5&logoColor=25A162)
-  ![Mockito](https://img.shields.io/badge/-Mockito-000000?style=flat&logo=Mockito&logoColor=FFFFFF)
-  ![JaCoCo](https://img.shields.io/badge/-JaCoCo-000000?style=flat&logo=jacoco&logoColor=FFFFFF)
+  ![Jest](https://img.shields.io/badge/-Jest-FFFFFF?style=flat&logo=Jest&logoColor=C21325)
   ![Postman](https://img.shields.io/badge/-Postman-FFFFFF?style=flat&logo=Postman&logoColor=FF6C37)
 
 * **Version Control Systems**
@@ -78,6 +77,8 @@
   ![Bash](https://img.shields.io/badge/-Bash-FFFFFF?style=flat&logo=gnubash&logoColor=4EAA25)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-FFFFFF?style=flat&logo=Jenkins&logoColor=D24939)
   ![TeamCity](https://img.shields.io/badge/-TeamCity-FFFFFF?style=flat&logo=TeamCity&logoColor=000000)
+  ![CircleCI](https://img.shields.io/badge/-CircleCI-FFFFFF?style=flat&logo=circleci&logoColor=343434)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FFFFFF?style=flat&logo=gitlab&logoColor=FC6D26)
   
 * **Cloud**
 
@@ -89,12 +90,12 @@
 
   ![Jira](https://img.shields.io/badge/-Jira-FFFFFF?style=flat&logo=JiraSoftware&logoColor=0052CC)
   ![Confluence](https://img.shields.io/badge/-Confluence-FFFFFF?style=flat&logo=Confluence&logoColor=172B4D)
-  ![Javadoc](https://img.shields.io/badge/-Javadoc-000000?style=flat&logo=Javadoc&logoColor=FFFFFF)
+  ![Javadoc](https://img.shields.io/badge/-Javadoc-FFFFFF?style=flat&logo=openjdk&logoColor=000000)
   ![Swagger](https://img.shields.io/badge/-Swagger-FFFFFF?style=flat&logo=Swagger&logoColor=85EA2D)
   ![LaTeX](https://img.shields.io/badge/-LaTeX-FFFFFF?style=flat&logo=LaTeX&logoColor=008080)
   ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=Markdown&logoColor=000000)
 
-* **Web Front-end**
+* **Web Development**
   
   ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=nodedotjs&logoColor=339933)
   ![React.js](https://img.shields.io/badge/-React.js-FFFFFF?style=flat&logo=react&logoColor=61DAFB)
