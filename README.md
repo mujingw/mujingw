@@ -42,7 +42,7 @@
 
 * **Integrated Development Environments**
 
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-FFFFFF?style=flat&logo=IntelliJIDEA&logoColor=000000)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FFFFFF?style=flat&logo=IntelliJIDEA&logoColor=000000)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-FFFFFF?style=flat&logo=PyCharm&logoColor=000000)
   ![WebStorm](https://img.shields.io/badge/-WebStorm-FFFFFF?style=flat&logo=WebStorm&logoColor=000000)
   ![CLion](https://img.shields.io/badge/-CLion-FFFFFF?style=flat&logo=clion&logoColor=000000)
