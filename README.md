@@ -114,7 +114,7 @@
   ![Windows](https://img.shields.io/badge/-Windows-FFFFFF?style=flat&logo=windows&logoColor=0078D6)
 
 ### &#x1f4c8;  My GitHub Stats
-<p align="left">
+<p align="center">
   <a href="https://github.com/mujingw">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mujingw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mujingw&theme=algolia"/>
