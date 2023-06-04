@@ -36,16 +36,19 @@
   ![SQLite](https://img.shields.io/badge/-SQLite-FFFFFF?style=flat&logo=SQLite&logoColor=003B57)
   ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-FFFFFF?style=flat&logo=MicrosoftSQLServer&logoColor=CC2927)
   ![Oracle Database](https://img.shields.io/badge/-Oracle%20Database-FFFFFF?style=flat&logo=Oracle&logoColor=F80000)
+  ![Hibernate](https://img.shields.io/badge/-Hibernate-FFFFFF?style=flat&logo=hibernate&logoColor=59666C)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat&logo=mongodb&logoColor=47A248)
   ![Mongoose](https://img.shields.io/badge/-Mongoose-FFFFFF?style=flat&logo=mongoose&logoColor=F80000)
-  ![Hibernate](https://img.shields.io/badge/-Hibernate-FFFFFF?style=flat&logo=hibernate&logoColor=59666C)
 
-* **IDEs**
+* **Integrated Development Environments**
 
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-FFFFFF?style=flat&logo=IntelliJIDEA&logoColor=000000)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-FFFFFF?style=flat&logo=IntelliJIDEA&logoColor=000000)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-FFFFFF?style=flat&logo=PyCharm&logoColor=000000)
   ![WebStorm](https://img.shields.io/badge/-WebStorm-FFFFFF?style=flat&logo=WebStorm&logoColor=000000)
+  ![CLion](https://img.shields.io/badge/-CLion-FFFFFF?style=flat&logo=clion&logoColor=000000)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-FFFFFF?style=flat&logo=visual-studio&logoColor=5C2D91)
+  ![Xcode](https://img.shields.io/badge/-Xcode-FFFFFF?style=flat&logo=xcode&logoColor=147EFB)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-FFFFFF?style=flat&logo=eclipseide&logoColor=2C2255)
     
 * **Testing**
   
@@ -66,20 +69,21 @@
   ![NuGet](https://img.shields.io/badge/-NuGet-FFFFFF?style=flat&logo=nuget&logoColor=004880)
   ![npm](https://img.shields.io/badge/-npm-FFFFFF?style=flat&logo=npm&logoColor=CB3837)
   
-* **Continuous Integration/CD**
+* **Continuous Integration/Continuous Deployment**
 
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-FFFFFF?style=flat&logo=githubactions&logoColor=2088FF)
   ![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker&logoColor=2496ED)
   ![CodePipeline](https://img.shields.io/badge/-AWS%20CodePipeline-FFFFFF?style=flat&logo=amazonaws&logoColor=232F3E)
-  ![ECR](https://img.shields.io/badge/-AWS%20ECR-FFFFFF?style=flat&logo=amazonaws&logoColor=232F3E)
+  ![ECR](https://img.shields.io/badge/-Amazon%20ECR-FFFFFF?style=flat&logo=amazonaws&logoColor=232F3E)
   ![Bash](https://img.shields.io/badge/-Bash-FFFFFF?style=flat&logo=gnubash&logoColor=4EAA25)
-  ![TeamCity](https://img.shields.io/badge/-TeamCity-FFFFFF?style=flat&logo=TeamCity&logoColor=000000)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-FFFFFF?style=flat&logo=Jenkins&logoColor=D24939)
+  ![TeamCity](https://img.shields.io/badge/-TeamCity-FFFFFF?style=flat&logo=TeamCity&logoColor=000000)
   
 * **Cloud**
 
-  ![EC2](https://img.shields.io/badge/-AWS%20EC2-FFFFFF?style=flat&logo=amazonec2&logoColor=FF9900)
-  ![RDS](https://img.shields.io/badge/-AWS%20RDS-FFFFFF?style=flat&logo=amazonrds&logoColor=527FFF)
+  ![EC2](https://img.shields.io/badge/-Amazon%20EC2-FFFFFF?style=flat&logo=amazonec2&logoColor=FF9900)
+  ![RDS](https://img.shields.io/badge/-Amazon%20RDS-FFFFFF?style=flat&logo=amazonrds&logoColor=527FFF)
+  ![CloudWatch](https://img.shields.io/badge/-Amazon%20CloudWatch-FFFFFF?style=flat&logo=amazoncloudwatch&logoColor=FF4F8B)
  
 * **Documentation**
 
@@ -90,7 +94,7 @@
   ![LaTeX](https://img.shields.io/badge/-LaTeX-FFFFFF?style=flat&logo=LaTeX&logoColor=008080)
   ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=Markdown&logoColor=000000)
 
-* **Web Front End**
+* **Web Front-end**
   
   ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=nodedotjs&logoColor=339933)
   ![React.js](https://img.shields.io/badge/-React.js-FFFFFF?style=flat&logo=react&logoColor=61DAFB)
@@ -98,6 +102,7 @@
   ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=7952B3)
+  ![ESLint](https://img.shields.io/badge/-ESLint-FFFFFF?style=flat&logo=eslint&logoColor=4B32C3)
   ![JSON](https://img.shields.io/badge/-JSON-FFFFFF?style=flat&logo=JSON&logoColor=000000)
 
 * **Operating Systems**
