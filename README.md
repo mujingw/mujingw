@@ -67,6 +67,7 @@
   ![Maven](https://img.shields.io/badge/-Apache%20Maven-FFFFFF?style=flat&logo=apache-maven&logoColor=C71A36)
   ![NuGet](https://img.shields.io/badge/-NuGet-FFFFFF?style=flat&logo=nuget&logoColor=004880)
   ![npm](https://img.shields.io/badge/-npm-FFFFFF?style=flat&logo=npm&logoColor=CB3837)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-FFFFFF?style=flat&logo=anaconda&logoColor=44A833)
   
 * **Continuous Integration/Continuous Deployment**
 
